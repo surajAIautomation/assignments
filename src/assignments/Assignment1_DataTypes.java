@@ -43,8 +43,6 @@ public class Assignment1_DataTypes {
 		System.out.println (latitude);
 		System.out.println (longitude);
 		
-		
-		
 //7. Person's marital status: true or false
 
 		System.out.print ("7. Person's marital status : ");
